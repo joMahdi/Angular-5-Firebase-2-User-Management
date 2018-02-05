@@ -1,4 +1,4 @@
-# Simple Application With Angular 5
+# Simple Application With Angular 5 And firebase 2
 
 ## Use 
 
