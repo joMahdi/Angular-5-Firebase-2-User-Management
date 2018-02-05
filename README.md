@@ -2,7 +2,7 @@
 
 ## Use 
 
-live Deme (https://angufire-f479a.firebaseapp.com/)
+Live Demo (https://angufire-f479a.firebaseapp.com/)
 
 ## Login
 
